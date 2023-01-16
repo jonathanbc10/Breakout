@@ -8,13 +8,13 @@ Welcome to the Breakout Game! This game is a classic arcade game where the playe
 Clone the project
 
 ```bash
-  git clone https://github.com/jonathanbc10/breakout.git
+  git clone https://github.com/jonathanbc10/Breakout.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd breakout
+  cd Breakout
 ```
 
 To run the game, you will need to have a web browser and a local server installed. You can use a package such as **http-server** to run a local server. 
